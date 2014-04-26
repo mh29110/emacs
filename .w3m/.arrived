@@ -1,0 +1,45 @@
+;;; .arrived  -*- mode: emacs-lisp; coding: utf-8 -*-
+;; This file is generated automatically by emacs-w3m v1.4.531.
+
+(("http://www.stallman.org/apple.html"
+  "Apple"
+  nil
+  (21337 2389 206000 0)
+  nil
+  nil)
+ ("http://www.stallman.org"
+  "Richard Stallman's Personal Page"
+  nil
+  (21337 2342 142000 0)
+  nil
+  nil)
+ ("http://blog.csdn.net/liang13664759/article/details/1771246"
+  "Linux makefile 教程 非常详细，且易懂 - ENDLESS - 博客频道 - CSDN.NET"
+  nil
+  (21337 2330 63000 0)
+  nil
+  nil)
+ ("http://blog.csdn.net/liang13664759/article/details/1769941"
+  "大四了 - ENDLESS - 博客频道 - CSDN.NET"
+  nil
+  (21337 2309 70000 0)
+  nil
+  nil)
+ ("http://www.google.com.au/search?q=makefile+csdn+&hl=en-AU&gbv=1"
+  "makefile csdn - Google Search"
+  nil
+  (21336 63820 935000 0)
+  nil
+  nil)
+ ("http://www.google.com.au/search?ie=ISO-8859-1&hl=en-AU&source=hp&q=+++makefile+++&gbv=1"
+  "makefile - Google Search"
+  nil
+  (21336 63776 912000 0)
+  nil
+  nil)
+ ("http://www.google.com.au"
+  "Google"
+  nil
+  (21336 63731 426000 0)
+  nil
+  nil))

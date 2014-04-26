@@ -1,0 +1,33 @@
+
+;; ----- smex-history -----
+(
+ customize
+ customize-themes
+ customize-face
+ w3m
+ grep
+ shell
+ locate
+)
+
+;; ----- smex-data -----
+(
+ (gdb . 1)
+ (ff-find-other-file . 1)
+ (smex . 1)
+ (mf . 1)
+ (mail . 1)
+ (mail-send . 1)
+ (helm-info-emacs . 1)
+ (list-packages . 2)
+ (occur . 1)
+ (find-dired . 5)
+ (find-file . 1)
+ (locate . 2)
+ (shell . 1)
+ (grep . 2)
+ (w3m . 1)
+ (customize-face . 2)
+ (customize . 3)
+ (customize-themes . 1)
+)
