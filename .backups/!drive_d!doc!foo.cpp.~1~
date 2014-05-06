@@ -1,7 +1,0 @@
-int main()
-{
-  printf("hello world!");
-  cin.get();
-  cin.get();
-  return 1;
-}
