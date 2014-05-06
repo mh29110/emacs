@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ org2blog/wp-login
+ html-mode
+ shell
  customize
  customize-themes
  customize-face
  w3m
- grep
- shell
- locate
 )
 
 ;; ----- smex-data -----
@@ -24,10 +24,12 @@
  (find-dired . 5)
  (find-file . 1)
  (locate . 2)
- (shell . 1)
+ (shell . 3)
  (grep . 2)
  (w3m . 1)
  (customize-face . 2)
  (customize . 3)
  (customize-themes . 1)
+ (html-mode . 2)
+ (org2blog/wp-login . 5)
 )
