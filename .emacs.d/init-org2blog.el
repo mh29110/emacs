@@ -4,6 +4,7 @@
 (setq url-proxy-services '(("http" . "127.0.0.1:8580"))) ;; fr*egate
 ;; (setq url-proxy-services '(("http" . "127.0.0.1:8000"))) ;; gae
 ;; (setq url-proxy-services '(("http" . "127.0.0.1:8118"))) ;; privoxy
+(setq url-proxy-services '(("http" . "theironislands.f.getqujing.net:49135"))) ;; privoxy
 
 ;; I would rather manage code syntax by myself
 (setq org2blog/wp-sourcecode-langs
