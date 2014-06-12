@@ -15,4 +15,4 @@
  (last-bmenu-toggle-filenames . t)
  (last-bmenu-before-hide-marked-alist)
  (last-bmenu-before-hide-unmarked-alist)
- (last-bookmark-file . "d:/emacs/.emacs.d/bookmarks"))
+ (last-bookmark-file . "d:\\emacs\\.emacs.d\\bookmarks"))

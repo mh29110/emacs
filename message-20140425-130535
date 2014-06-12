@@ -1,0 +1,143 @@
+From: admin@ADMIN-PC.i-did-not-set--mail-host-address--so-tickle-me
+To: bug-cc-mode@gnu.org
+Subject: CC Mode 5.32.4 (C/lhw); ddd
+X-Reporter-Void-Vars-Found: auto-fill-mode (setq
+ c-basic-offset 4
+ c-comment-only-line-offset '(0 . 0)
+ c-indent-comment-alist '((anchored-comment column . 0)
+                          (end-block space . 1) (cpp-end-block space . 2))
+ c-indent-comments-syntactically-p nil
+ c-block-comment-prefix ""
+ c-comment-prefix-regexp '((pike-mode . "//+!?\\|\\**") (awk-mode . "#+")
+                           (other . "//+\\|\\**"))
+ c-doc-comment-style '((java-mode . javadoc) (pike-mode . autodoc)
+                       (c-mode . gtkdoc))
+ c-cleanup-list '(scope-operator)
+ c-hanging-braces-alist '((substatement-open before after)
+                          (arglist-cont-nonempty))
+ c-hanging-colons-alist nil
+ c-hanging-semi&comma-criteria '(c-semi&comma-inside-parenlist)
+ c-backslash-column 48
+ c-backslash-max-column 72
+ c-special-indent-hook '(c-gnu-impose-minimum)
+ c-label-minimum-indentation 0
+ c-offsets-alist '((inexpr-class . +)
+                   (inexpr-statement . +)
+                   (lambda-intro-cont . +)
+                   (inlambda . c-lineup-inexpr-block)
+                   (template-args-cont c-lineup-template-args +)
+                   (incomposition . +)
+                   (inmodule . +)
+                   (innamespace . +)
+                   (inextern-lang . +)
+                   (composition-close . 0)
+                   (module-close . 0)
+                   (namespace-close . 0)
+                   (extern-lang-close . 0)
+                   (composition-open . 0)
+                   (module-open . 0)
+                   (namespace-open . 0)
+                   (extern-lang-open . 0)
+                   (objc-method-call-cont
+                    c-lineup-ObjC-method-call-colons
+                    c-lineup-ObjC-method-call
+                    +
+                    )
+                   (objc-method-args-cont . c-lineup-ObjC-method-args)
+                   (objc-method-intro . [0])
+                   (friend . 0)
+                   (cpp-define-intro c-lineup-cpp-define +)
+                   (cpp-macro-cont . +)
+                   (cpp-macro . [0])
+                   (inclass . +)
+                   (stream-op . c-lineup-streamop)
+                   (arglist-cont-nonempty . +)
+                   (arglist-cont c-lineup-gcc-asm-reg 0)
+                   (comment-intro
+                    c-lineup-knr-region-comment
+                    c-lineup-comment
+                    )
+                   (catch-clause . 0)
+                   (else-clause . 0)
+                   (do-while-closure . 0)
+                   (access-label . -)
+                   (case-label . +)
+                   (substatement . +)
+                   (statement-case-intro . +)
+                   (statement . 0)
+                   (brace-entry-open . 0)
+                   (brace-list-entry . 0)
+                   (brace-list-intro . +)
+                   (brace-list-close . 0)
+                   (block-close . 0)
+                   (block-open . 0)
+                   (inher-cont . c-lineup-multi-inher)
+                   (inher-intro . +)
+                   (member-init-cont . c-lineup-multi-inher)
+                   (member-init-intro . +)
+                   (annotation-var-cont . +)
+                   (annotation-top-cont . 0)
+                   (topmost-intro . 0)
+                   (knr-argdecl . 0)
+                   (func-decl-cont . +)
+                   (inline-close . 0)
+                   (class-close . 0)
+                   (class-open . 0)
+                   (defun-block-intro . +)
+                   (defun-close . 0)
+                   (defun-open . 0)
+                   (c . c-lineup-C-comments)
+                   (string . c-lineup-dont-change)
+                   (topmost-intro-cont . c-wx-lineup-topmost-intro-cont)
+                   (brace-list-open . +)
+                   (inline-open . 0)
+                   (arglist-close . c-lineup-arglist)
+                   (arglist-intro . +)
+                   (statement-cont . +)
+                   (statement-case-open . 0)
+                   (label . 0)
+                   (substatement-label . 0)
+                   (substatement-open . 0)
+                   (knr-argdecl-intro . 5)
+                   (statement-block-intro . +)
+                   )
+ c-buffer-is-cc-mode 'c-mode
+ c-tab-always-indent t
+ c-syntactic-indentation t
+ c-syntactic-indentation-in-macros t
+ c-ignore-auto-fill '(string cpp code)
+ c-auto-align-backslashes t
+ c-backspace-function 'backward-delete-char-untabify
+ c-delete-function 'delete-char
+ c-electric-pound-behavior '(alignleft)
+ c-default-style '((java-mode . "java") (awk-mode . "awk") (other . "gnu"))
+ c-enable-xemacs-performance-kludge-p nil
+ c-old-style-variable-behavior nil
+ defun-prompt-regexp nil
+ tab-width 4
+ comment-column 32
+ parse-sexp-ignore-comments t
+ parse-sexp-lookup-properties t
+ auto-fill-function nil
+ comment-multi-line t
+ comment-start-skip "\\(//+\\|/\\*+\\)\\s *"
+ fill-prefix nil
+ fill-column 70
+ paragraph-start "[ 	]*\\(//+\\|\\**\\)[ 	]*$\\|^\f"
+ adaptive-fill-mode t
+ adaptive-fill-regexp "[ 	]*\\(//+\\|\\**\\)[ 	]*\\([ 	]*\\([-–!|#%;>*·•‣⁃◦]+[ 	]*\\)*\\)"
+ )
+
+Date: Fri, 25 Apr 2014 13:06:05 +0800
+Message-ID: <871twm80ci.fsf@ADMIN-PC.i-did-not-set--mail-host-address--so-tickle-me>
+--text follows this line--
+
+
+Emacs  : GNU Emacs 24.3.1 (i386-mingw-nt6.1.7600)
+ of 2013-03-18 on MARVIN
+Package: CC Mode 5.32.4 (C/lhw)
+Buffer Style: gnu
+c-emacs-features: (pps-extended-state col-0-paren posix-char-classes gen-string-delim gen-comment-delim syntax-properties 1-bit)
+
+current state:
+==============

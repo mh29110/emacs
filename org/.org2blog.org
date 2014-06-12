@@ -1,0 +1,37 @@
+* Posts
+** [[file:d:/myblog/readingNotes/csapp2.org][Computer Systems A Programmer’s Perspective II (深入理解计算机系统 第二 - 三章 ）]]
+:PROPERTIES:
+:POSTID:   85
+:POST_DATE: 20140610T01:30:00+0000
+:Published: Yes
+:END:
+** [[file:d:/swift/swiftbook/swiftbook/welcomeContinue.org][2.Welcome to Swift Continue: The Swift Programming Language]]
+:PROPERTIES:
+:POSTID:   65
+:POST_DATE: 20140603T07:44:00+0000
+:Published: Yes
+:END:
+** [[file:d:/swift/swiftbook/swiftbook/welcomeToSwift.org][1.Welcome to Swift    : The Swift Programming Language]]
+:PROPERTIES:
+:POSTID:   56
+:POST_DATE: 20140603T03:22:00+0000
+:Published: Yes
+:END:
+** [[file:d:/swift/swiftbook/swiftbook/swift_study_1.org][1.Welcome to Swift    : The Swift Programming Language]]
+:PROPERTIES:
+:POSTID:   56
+:POST_DATE: 20140603T03:22:00+0000
+:Published: Yes
+:END:
+** [[file:d:/doc/org-mode.org][org-mode for beginners]]
+:PROPERTIES:
+:POSTID:   42
+:POST_DATE: 20140526T05:07:00+0000
+:Published: Yes
+:END:
+** [[file:d:/myblog/openning.org][*openning*]]
+:PROPERTIES:
+:POSTID:   36
+:POST_DATE: 20140513T02:19:00+0000
+:Published: Yes
+:END:

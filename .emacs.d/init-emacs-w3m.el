@@ -17,7 +17,7 @@
       )
 
 ;; show images in the browser
-;(setq w3m-default-display-inline-images t)
+; (setq w3m-default-display-inline-images t)
 
 (setq w3m-search-default-engine "g")
 (eval-after-load "w3m-search" '(progn

@@ -1,0 +1,19 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(#1=(#("erc emacs" 0 9
+      (bmkp-full-record #1#))
+    (filename . "   - no file -")
+    (defaults #2="#emacs")
+    (buffer-name . #2#)
+    (front-context-string . "F1AAM8GW (~quazi")
+    (rear-context-string . "me No See\"\n*** 7")
+    (front-context-region-string)
+    (rear-context-region-string)
+    (visits . 0)
+    (time . #3=(21364 13401 571000 0))
+    (created . #3#)
+    (position . 7451)
+    (end-position . 7451))
+)

@@ -1,35 +1,60 @@
 
 ;; ----- smex-history -----
 (
- org2blog/wp-login
- html-mode
- shell
- customize
- customize-themes
- customize-face
  w3m
+ iimage-mode
+ compile
+ dired
+ complete-tag
+ org-agenda-list
+ shell
 )
 
 ;; ----- smex-data -----
 (
- (gdb . 1)
- (ff-find-other-file . 1)
- (smex . 1)
- (mf . 1)
- (mail . 1)
- (mail-send . 1)
- (helm-info-emacs . 1)
- (list-packages . 2)
- (occur . 1)
- (find-dired . 5)
- (find-file . 1)
- (locate . 2)
- (shell . 3)
- (grep . 2)
- (w3m . 1)
- (customize-face . 2)
- (customize . 3)
- (customize-themes . 1)
- (html-mode . 2)
- (org2blog/wp-login . 5)
+ (customize-option . 3)
+ (w3m . 7)
+ (mail . 6)
+ (iimage-mode . 12)
+ (ff-find-other-file . 2)
+ (compile . 53)
+ (gdb . 4)
+ (customize . 2)
+ (list-packages . 1)
+ (text-mode . 2)
+ (view-file . 2)
+ (view-mode . 1)
+ (shell . 24)
+ (telnet . 2)
+ (outline-mode . 1)
+ (xml-mode . 1)
+ (picture-mode . 1)
+ (org-mode . 2)
+ (line-number-mode . 2)
+ (rmail-set-remote-password . 1)
+ (rmail . 1)
+ (irc . 4)
+ (speedbar . 3)
+ (flymake-shell-load . 1)
+ (cd . 3)
+ (shell-backward-command . 1)
+ (org2blog/wp-new-entry . 19)
+ (org2blog/wp-post-buffer-as-page-and-publish . 8)
+ (org2blog/wp-login . 33)
+ (mail-mode . 1)
+ (org2blog/wp-post-buffer-and-publish . 72)
+ (org2blog/wp-logout . 1)
+ (yas-expand-from-trigger-key . 4)
+ (erc . 1)
+ (dired . 16)
+ (window-numbering-mode . 2)
+ (table-insert . 5)
+ (visit-tags-table . 11)
+ (ggtags-mode . 2)
+ (evil-complete-previous-line . 1)
+ (remember . 2)
+ (terminal-emulator . 1)
+ (org-agenda-list . 1)
+ (org-agenda-file-to-front . 1)
+ (complete-tag . 1)
 )
