@@ -47,25 +47,25 @@
 (
  ".org2blog.org"
  "csapp2.org"
+ "csapp.org"
+ "csapp3.org"
  "hello.s"
  "hello.cpp"
  "welcomeToSwift.org"
  "welcomeContinue.org"
  "TheSwift.org"
  "daily.org"
- "delete.c"
- "work.org"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("d:/emacs/" (21401 28986 0 0) "site-lisp/" "RMAIL" "README.W32" "README.md" "README" "org/" "message-20140425-130535" "message-20140423-104457" "message-20140423-104159" "message-20140422-235106" "message-20140422-234947" "lisp/" "leim/" "info/" "etc/" "COPYING" "BUGS" "bin/" ".w3m/" ".smex-items" ".recentf~" ".recentf" ".ido.last~" ".ido.last" ".history" ".gitignore" ".gitconfig" ".git/" ".emacs_workgroups" ".emacs.keyfreq" ".emacs.d/" ".emacs-bmk-bmenu-state.el" ".backups/" "#message-20140422-235106#" "#message-20140422-215710#" "#message-20140422-215230#" "#message-20140422-175128#" "#%2Amail%2A#3144IVg#" "../" "./")
+
+ ("d:/myblog/readingNotes/imgs/" (21401 26293 0 0) "y86cpu.png" "stack2.png" "stack.png" "registerindex.png" "registerfile.png" "modernCpu.png" "4y86instruction.png" "../" "./")
+
+ ("d:/myblog/readingNotes/" (21401 23913 0 0) "README.md" "imgs/" "csapp3.org" "csapp2.org" "csapp.org" ".git/" "../" "./")
+
  ("d:/emacs/org/" (21401 2649 0 0) ".org2blog.org" "../" "./")
-
- ("d:/emacs/" (21401 2654 0 0) "site-lisp/" "RMAIL" "README.W32" "README.md" "README" "org/" "message-20140425-130535" "message-20140423-104457" "message-20140423-104159" "message-20140422-235106" "message-20140422-234947" "lisp/" "leim/" "info/" "etc/" "COPYING" "BUGS" "bin/" ".w3m/" ".smex-items" ".recentf~" ".recentf" ".ido.last~" ".ido.last" ".history" ".gitignore" ".gitconfig" ".git/" ".emacs_workgroups" ".emacs.keyfreq" ".emacs.d/" ".emacs-bmk-bmenu-state.el" ".backups/" "#message-20140422-235106#" "#message-20140422-215710#" "#message-20140422-215230#" "#message-20140422-175128#" "#%2Amail%2A#3144IVg#" "../" "./")
-
- ("d:/myblog/readingNotes/imgs/" (21399 62856 0 0) "stack2.png" "stack.png" "../" "./")
-
- ("d:/myblog/readingNotes/" (21399 62081 0 0) "README.md" "imgs/" "csapp2.org" "csapp.org" ".git/" "#csapp2.org#" "../" "./")
 
  ("d:/myblog/" (21398 24106 0 0) "readingNotes/" "openning.org" "Emacs'sNotes" "../" "./")
 
