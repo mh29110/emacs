@@ -1,4 +1,10 @@
 * Posts
+** [[file:d:/myblog/readingNotes/csapp/csapp6.org][Computer Systems A Programmer’s Perspective II (深入理解计算机系统 第六章 ）]]
+:PROPERTIES:
+:POSTID:   116
+:POST_DATE: 20140613T01:37:00+0000
+:Published: Yes
+:END:
 ** [[file:d:/myblog/readingNotes/csapp/csapp3.org][Computer Systems A Programmer’s Perspective II (深入理解计算机系统 第四章 ）]]
 :PROPERTIES:
 :POSTID:   105
