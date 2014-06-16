@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("d:/myblog/readingNotes/" . "csapp/")
  ("d:/myblog/" . "readingNotes/")
  ("d:/swift/swiftbook/" . "swiftbook/")
  ("d:/swift/" . "swiftbook/")
@@ -23,6 +24,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "d:/myblog/readingNotes/csapp/"
  "d:/emacs/org/"
  "d:/myblog/readingNotes/"
  "d:/leegame/c/"
@@ -45,6 +47,7 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "csapp6.org"
  ".org2blog.org"
  "csapp2.org"
  "csapp.org"
@@ -54,20 +57,23 @@
  "welcomeToSwift.org"
  "welcomeContinue.org"
  "TheSwift.org"
- "daily.org"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("d:/myblog/readingNotes/csapp/" (21402 52677 0 0) "README.MD" "imgs/" "csapp6.org" "csapp3.org" "csapp2.org" "csapp.org" "../" "./")
+
+ ("d:/myblog/readingNotes/" (21402 21906 0 0) "swift/" "README.md" "org-mode.org" "openning.org" "Emacs'sNotes" "csapp/" ".git/" "../" "./")
+
+ ("d:/myblog/" (21402 20934 0 0) "readingNotes/" "../" "./")
+
+ ("d:/myblog/readingNotes/csapp/imgs/" (21402 52280 0 0) "y86cpu.png" "stack2.png" "stack.png" "registerindex.png" "registerfile.png" "modernCpu.png" "memory1.png" "hierarchy.png" "bus.png" "4y86instruction.png" "../" "./")
+
  ("d:/emacs/" (21401 28986 0 0) "site-lisp/" "RMAIL" "README.W32" "README.md" "README" "org/" "message-20140425-130535" "message-20140423-104457" "message-20140423-104159" "message-20140422-235106" "message-20140422-234947" "lisp/" "leim/" "info/" "etc/" "COPYING" "BUGS" "bin/" ".w3m/" ".smex-items" ".recentf~" ".recentf" ".ido.last~" ".ido.last" ".history" ".gitignore" ".gitconfig" ".git/" ".emacs_workgroups" ".emacs.keyfreq" ".emacs.d/" ".emacs-bmk-bmenu-state.el" ".backups/" "#message-20140422-235106#" "#message-20140422-215710#" "#message-20140422-215230#" "#message-20140422-175128#" "#%2Amail%2A#3144IVg#" "../" "./")
 
  ("d:/myblog/readingNotes/imgs/" (21401 26293 0 0) "y86cpu.png" "stack2.png" "stack.png" "registerindex.png" "registerfile.png" "modernCpu.png" "4y86instruction.png" "../" "./")
 
- ("d:/myblog/readingNotes/" (21401 23913 0 0) "README.md" "imgs/" "csapp3.org" "csapp2.org" "csapp.org" ".git/" "../" "./")
-
  ("d:/emacs/org/" (21401 2649 0 0) ".org2blog.org" "../" "./")
-
- ("d:/myblog/" (21398 24106 0 0) "readingNotes/" "openning.org" "Emacs'sNotes" "../" "./")
 
  ("d:/doc/pics/" (21397 26866 0 0) "Windows_7_gnu_emacs_shortcut_properties_2012-06-15.png" "emacs-img-dlls.zip" "716ad72a6059252d8ffa656a369b033b5ab5b906.png" "../" "./")
 
