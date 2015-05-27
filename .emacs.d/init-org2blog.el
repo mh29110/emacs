@@ -4,7 +4,7 @@
 ;; (setq url-proxy-services '(("http" . "127.0.0.1:8580"))) ;; fr*egate
 ;; (setq url-proxy-services '(("http" . "127.0.0.1:8000"))) ;; gae
 ;; (setq url-proxy-services '(("http" . "127.0.0.1:8118"))) ;; privoxy
-(setq url-proxy-services '(("http" . "theironislands.f.getqujing.net:33476"))) ;; privoxy
+(setq url-proxy-services '(("http" . "theironislands.f.getqujing.net:34577"))) ;; privoxy
 
 ;; I would rather manage code syntax by myself
 (setq org2blog/wp-sourcecode-langs
@@ -25,14 +25,12 @@
       ;;   ))
 (setq org2blog/wp-blog-alist
       '(("phantomjia"
-         :url "http://phantomjia.wordpress.com/xmlrpc.php"
+        ;; :url "http://phantomjia.wordpress.com/xmlrpc.php"
+         :url "http://121.40.186.180/wordpress/xmlrpc.php"
          :username "phantomjia"
          :default-title "Hello World"
-         :default-categories ("org2blog" "emacs")
-         :tags-as-categories nil)
-        ("my-blog"
-         :url "http://phantomjia.server.com/xmlrpc.php"
-         :username "admin")))
+         :default-categories ("org2blog")
+         :tags-as-categories nil)))
 (defun my-org2blog-post-subtree ()
   (interactive)
 

@@ -1,22 +1,178 @@
 ;;; .arrived  -*- mode: emacs-lisp; coding: utf-8 -*-
 ;; This file is generated automatically by emacs-w3m v1.4.531.
 
-(("http://image.baidu.com"
-  "百度图片—全球最大中文图片库"
+(("https://openid.stackexchange.com/account/login/submit"
   nil
-  (21401 2844 300000 0)
+  nil
+  (21463 27421 696000 0)
+  nil
+  nil)
+ ("https://stackexchange.com/users/authenticate"
+  nil
+  nil
+  (21463 27364 349000 0)
+  nil
+  nil)
+ ("https://stackexchange.com/users/login"
+  "Log In"
+  nil
+  (21463 27358 587000 0)
+  nil
+  nil)
+ ("https://stackexchange.com"
+  "Hot Questions - Stack Exchange"
+  nil
+  (21463 27345 235000 0)
+  nil
+  nil)
+ ("https://openid.stackexchange.com/account/prompt/submit"
+  nil
+  nil
+  (21463 27213 193000 0)
+  nil
+  nil)
+ ("http://stackexchange.com"
+  "Hot Questions - Stack Exchange"
+  nil
+  (21463 27114 448000 0)
+  nil
+  nil)
+ ("https://openid.stackexchange.com/account/login?session=741c2b6d-459f-41eb-8e97-8d5873233417"
+  "Login"
+  nil
+  (21463 26077 793000 0)
+  nil
+  nil)
+ ("https://stackexchange.com/sites"
+  "All Sites - Stack Exchange"
+  nil
+  (21463 25198 513000 0)
+  nil
+  nil)
+ ("https://stackoverflow.com/users/login"
+  "Log in - Stack Overflow"
+  nil
+  (21463 25079 712000 0)
+  nil
+  nil)
+ ("http://openid.net/get"
+  nil
+  (21463 24769)
+  (21463 25035 111000 0)
+  nil
+  nil)
+ ("https://stackoverflow.com/users/login?returnurl=http%3a%2f%2fstackoverflow.com%2f"
+  "Log in - Stack Overflow"
+  nil
+  (21463 24403 549000 0)
+  nil
+  nil)
+ ("http://stackoverflow.com"
+  "Stack Overflow"
+  (21463 21323)
+  (21463 21353 539000 0)
+  nil
+  nil)
+ ("http://stackoverflow.com/help"
+  "Help Center - Stack Overflow"
+  nil
+  (21463 21133 631000 0)
+  nil
+  nil)
+ ("https://stackoverflow.com/users/account-recovery"
+  "Account Recovery - Stack Overflow"
+  nil
+  (21463 20801 158000 0)
+  nil
+  nil)
+ ("https://twitter.com"
+  "twitter.com"
+  (21463 20691 867000 0)
+  (21463 20691 867000 0)
+  nil
+  nil)
+ ("http://www.baidu.com/s?wd=google&oq=google&ie=utf-8&nojs=1&bqid=8d79782b0001bed8"
+  "google_百度搜索"
+  nil
+  (21463 20619 189000 0)
+  nil
+  nil)
+ ("http://www.google.com/search?btnI=I%%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8&q=hello"
+  "search?btnI=I%%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8&q=hello"
+  (21463 20617 686000 0)
+  (21463 20617 686000 0)
+  nil
+  nil)
+ ("http://www.baidu.com/s?wd=google&rsv_bp=0"
+  "google_百度搜索"
+  nil
+  (21463 20616 536000 0)
   nil
   nil)
  ("http://www.baidu.com/baidu.html?from=noscript"
   "百度一下，你就知道"
   (21186 42733)
-  (21401 2839 909000 0)
+  (21463 20605 602000 0)
   nil
   nil)
  ("http://www.baidu.com"
   "百度一下，你就知道"
   nil
-  (21401 2838 102000 0)
+  (21463 20603 728000 0)
+  nil
+  nil)
+ ("https:/twitter.com"
+  "twitter.com"
+  (21463 19124 349000 0)
+  (21463 19124 349000 0)
+  nil
+  nil)
+ ("http://twitter.com"
+  "twitter.com"
+  (21463 19094 772000 0)
+  (21463 19094 772000 0)
+  nil
+  nil)
+ ("https://stackoverflow.com/users/login?returnurl=https%3a%2f%2fstackoverflow.com%2fusers%2f"
+  "Log in - Stack Overflow"
+  nil
+  (21463 18145 873000 0)
+  nil
+  nil)
+ ("https://stackoverflow.com/users"
+  "Users - Stack Overflow"
+  nil
+  (21463 17755 395000 0)
+  nil
+  nil)
+ ("https://stackoverflow.com/users/login?returnurl=http%3a%2f%2fstackoverflow.com%2f%3fq%3dnode%2fadd"
+  "Log in - Stack Overflow"
+  nil
+  (21463 17716 549000 0)
+  nil
+  nil)
+ ("https://stackoverflow.com"
+  "Stack Overflow"
+  (21463 17507)
+  (21463 17521 70000 0)
+  nil
+  nil)
+ ("https://stackoverflow.com/users/authenticate"
+  "authenticate"
+  nil
+  (21463 17301 212000 0)
+  nil
+  nil)
+ ("http://www.stackoverflow.com"
+  nil
+  (21463 16314)
+  (21463 16326 964000 0)
+  nil
+  nil)
+ ("http://image.baidu.com"
+  "百度图片—全球最大中文图片库"
+  nil
+  (21401 2844 300000 0)
   nil
   nil)
  ("http://phantomjia.files.wordpress.com/2014/06/wpid-stack.png"
@@ -71,12 +227,6 @@
   nil
   (20767 29038)
   (21333 60975 697000 0)
-  nil
-  nil)
- ("http://www.google.com/search?btnI=I%%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8&q=hello"
-  nil
-  nil
-  (21333 58044 877000 0)
   nil
   nil)
  ("http://bbs.hupu.com/lakers"

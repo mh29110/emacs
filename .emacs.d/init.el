@@ -31,6 +31,14 @@
   (when (file-regular-p file)
       (load file)))
 ;----------------------------------------------------------------------------
+;lijia
+;proxy network
+;(setq url-proxy-services '(("http" . "theironislands.f.getqujing.net:29922"))) ;; privoxy
+;
+;
+;
+;
+;----------------------------------------------------------------------------
 ; Load configs for specific features and modes
 ;----------------------------------------------------------------------------
 (require 'init-modeline)
@@ -181,6 +189,7 @@
  '(browse-url-generic-program "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe")
  '(column-number-mode t)
  '(display-time-mode t)
+ '(newsticker-url-list (quote (("Washington Post" "http://feeds.washingtonpost.com/rss/world" nil nil nil))))
  '(quack-browse-url-browser-function nil)
  '(safe-local-variable-values (quote ((emacs-lisp-docstring-fill-column . 75) (ruby-compilation-executable . "ruby") (ruby-compilation-executable . "ruby1.8") (ruby-compilation-executable . "ruby1.9") (ruby-compilation-executable . "rbx") (ruby-compilation-executable . "jruby"))))
  '(send-mail-function (quote mailclient-send-it))

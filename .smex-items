@@ -1,35 +1,35 @@
 
 ;; ----- smex-history -----
 (
- w3m
- iimage-mode
- compile
+ org2blog/wp-new-entry
+ org2blog/wp-login
+ org-mode
  shell
- dired
- visit-tags-table
- mail
+ terminal-emulator
+ eval-buffer
+ lisp-interaction-mode
 )
 
 ;; ----- smex-data -----
 (
  (customize-option . 3)
- (w3m . 7)
+ (w3m . 13)
  (mail . 6)
  (iimage-mode . 12)
  (ff-find-other-file . 2)
- (compile . 53)
- (gdb . 4)
+ (compile . 117)
+ (gdb . 6)
  (customize . 2)
  (list-packages . 1)
  (text-mode . 2)
  (view-file . 2)
  (view-mode . 1)
- (shell . 24)
+ (shell . 29)
  (telnet . 2)
  (outline-mode . 1)
  (xml-mode . 1)
  (picture-mode . 1)
- (org-mode . 2)
+ (org-mode . 7)
  (line-number-mode . 2)
  (rmail-set-remote-password . 1)
  (rmail . 1)
@@ -38,14 +38,14 @@
  (flymake-shell-load . 1)
  (cd . 3)
  (shell-backward-command . 1)
- (org2blog/wp-new-entry . 21)
+ (org2blog/wp-new-entry . 28)
  (org2blog/wp-post-buffer-as-page-and-publish . 8)
- (org2blog/wp-login . 41)
+ (org2blog/wp-login . 63)
  (mail-mode . 1)
- (org2blog/wp-post-buffer-and-publish . 85)
+ (org2blog/wp-post-buffer-and-publish . 98)
  (org2blog/wp-logout . 1)
  (yas-expand-from-trigger-key . 4)
- (erc . 1)
+ (erc . 2)
  (dired . 16)
  (window-numbering-mode . 2)
  (table-insert . 5)
@@ -53,9 +53,17 @@
  (ggtags-mode . 2)
  (evil-complete-previous-line . 1)
  (remember . 2)
- (terminal-emulator . 1)
+ (terminal-emulator . 2)
  (org-agenda-list . 1)
  (org-agenda-file-to-front . 1)
  (complete-tag . 1)
  (org-publish . 1)
+ (sdcv-search-pointer . 3)
+ (newsticker-start . 2)
+ (newsticker-show-news . 7)
+ (newsticker-add-url . 3)
+ (lisp-interaction-mode . 2)
+ (doctor . 1)
+ (w3m-goto-url . 4)
+ (eval-buffer . 3)
 )
